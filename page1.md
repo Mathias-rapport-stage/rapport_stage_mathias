@@ -115,3 +115,36 @@ Le professeur chargé du suivi de l'élève : ......................
 
 Evaluation du compte rendu de stage :
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-3xi5">Je présente proprement le compte-rendu : lisiblement, pas de rature, pas de correcteur...</th>
+    <th class="tg-0lax"></th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">J'ai illustré le compte-rendu : photographies, documents...</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">J'ai complété le questionnaire toute les rubriques sont renseignées.</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">J'ai rédigé en français correct, en tenant compte de la rédaction, de l'orthographe, </td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</table>
