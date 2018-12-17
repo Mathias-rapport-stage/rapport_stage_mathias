@@ -1,4 +1,5 @@
 Nom de l'entreprise:
+
 Responsable de l'élève au sein de l'entreprise:
 
 ## Description de l'entreprise
@@ -88,10 +89,10 @@ Complétez très soigneusement le tableau suivant : il constitue le bilan de vot
 
 __CONSIGNE :__
 
-Parmi les métiers que vous avez observés choissez-en un et réalisez une fichier métier au format A4 incluse dans le cachier de stage.
+Parmi les métiers que vous avez observés choissez-en un et réalisez une fiche métier au format A4 incluse dans le cachier de stage.
 
 Cette fiche devra indiquer :
-- le nom de métier
+- le nom du métier:
 - la nature du travail (activités, machines et technologies utilisées, etc ...)
 - les qualités requises
 - la carrière (rémunération et promotions possibles)
@@ -99,4 +100,18 @@ Cette fiche devra indiquer :
 
 *Vous soignerez la présentation de cette ficher et l'illustrerez par au moins deux photos significatives du métier choisi.*
 
+# FICHE EVALUATION
+
+### Evaluation du compte-rendude stage par le profsseur chargé du suivie de l'élève
+Nom: :
+
+Prénom :
+
+Classe :
+
+Le compte-rendu de stage devra être imprimé et rendu AU PLUS TARD le lundi 14 janvier 2018
+
+Le professeur chargé du suivi de l'élève : ......................
+
+Evaluation du compte rendu de stage :
 
