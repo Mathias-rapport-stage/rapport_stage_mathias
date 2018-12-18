@@ -1,0 +1,8 @@
+language: ruby
+rvm:
+ - 2.2
+ - jruby
+jobs:
+  include:
+    -stage: Check orthographe
+     script:
