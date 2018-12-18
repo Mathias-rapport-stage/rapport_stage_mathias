@@ -3,10 +3,10 @@ before_install:
 - sudo apt-get install -y pandoc
 - sudo apt-get install -y texlive-full
 - sudo apt-get install -y texlive-xetex
-- chmod u+x ./scripts/md2pdf
+- chmod u+x ./scripts/md2pdf.sh
 - chmod u+x ./scripts/publish
 
-script: "./scripts/md2pdf"
+script: "./scripts/md2pdf.sh"
 
 #after_success:
 #- "./scripts/publish"
