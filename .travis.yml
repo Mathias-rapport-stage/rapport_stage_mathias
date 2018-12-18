@@ -3,13 +3,13 @@ before_install:
 - sudo apt-get install -y pandoc
 - sudo apt-get install -y texlive-full
 - sudo apt-get install -y texlive-xetex
-- chmod u+x ./scrtips/build.sh
-- chmod u+x ./scripts/publish.sh
+- chmod u+x ./scrtips/md2pdf
+- chmod u+x ./scripts/publish
 
-script: "./travis/build.sh"
+script: "./scripts/md2pdf"
 
-after_success:
-- "./travis/publish.sh"
+#after_success:
+#- "./scripts/publish"
 
 env:
   global:
