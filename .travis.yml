@@ -1,15 +1,14 @@
-before_install:
-- sudo apt-get update -qq
-- sudo apt-get install -y pandoc
-- sudo apt-get install -y texlive-full
-- sudo apt-get install -y texlive-xetex
-- chmod u+x ./scripts/md2pdf.sh
-- chmod u+x ./scripts/publish.sh
+https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md
+language: node_js
+dist: trusty
+addons:
+  apt:
+    packages:
+      # This is required to run new chrome on old trusty
+      - libnss3
 
-script: "./scripts/md2pdf.sh"
-
-after_success:
-- "./scripts/publish.sh"
+notifications:
+  email: false
 
 env:
   global:
@@ -21,3 +20,19 @@ env:
   - GIT_AUTHOR_EMAIL: mathias.gil51@gmail.com
   - RESULT_PDF_PATH: $TRAVIS_BUILD_DIR/thesis.pdf
   - TZ: "Europe/Zurich"
+  
+cache:
+  directories:
+    - node_modules
+# allow headful tests
+before_install:
+  # Enable user namespace cloning
+  - "sysctl kernel.unprivileged_userns_clone=1"
+  # Launch XVFB
+  - "export DISPLAY=:99.0"
+  - "sh -e /etc/init.d/xvfb start"
+  
+script: "./scripts/md2pdf.sh"
+
+after_success:
+- "./scripts/publish.sh"
