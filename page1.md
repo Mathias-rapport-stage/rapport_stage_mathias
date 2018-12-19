@@ -61,7 +61,7 @@ Le premier jour j'ai eu un entretien avec un ingénieur informaticien qui travai
 
 **Jour2 :**
 
-Le deuxième jour j'ai eu un entretien avec un technicien informatique son métier consiste à donner des PC lorsqu'il ne fonctionne plus où qu'il on un problème. L'après midi j'ai eu un autre entretien avec un technicien informatique qui est aussi ingénieur réseaux il en myITsupport et services, son métier consiste à résoudre n'importe quel problème qu'il y a avec les ordinateur. 
+Le deuxième jour j'ai eu un entretien avec un technicien informatique son métier consiste à donner des PC lorsqu'il ne fonctionne plus où qu'il on un problème. L'après midi j'ai eu un autre entretien avec un technicien informatique qui est aussi ingénieur réseaux il en myITsupport et services, son métier consiste à résoudre n'importe quel problème qu'il y a avec les ordinateurs. 
 
 **Jour3 :**
 
