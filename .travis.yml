@@ -28,6 +28,8 @@ cache:
     - node_modules
 # allow headful tests
 before_install:
+  - chmod u+x ./scripts/md2pdf.sh
+  - chmod u+x ./scripts/publish.sh
   # Install markdown to pdf
   - "npm i -g md-to-pdf"
   # Enable user namespace cloning
