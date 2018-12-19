@@ -46,6 +46,8 @@ after_success:
 deploy:
     provider: releases
     api_key: $GH_OAUTH_TOKEN
-    file: *.pdf
+    file_glob: true
+    file: ./*.pdf
+    overwrite: true
     skip_cleanup: true
     draft: true
