@@ -65,6 +65,8 @@ Le deuxième jour j'ai eu un entretien avec un technicien informatique son méti
 
 **Jour3 :**
 
+Le troisième jour j'ai eu un rendez-vous avec un consultant d'avant vente son métier consiste à donner des assets(ici asset électronique qui regroupe tout le domaine de l'informatique ex : PC, téléphone, routeur, application) aux entreprises pour quelles puissent travailler ces assets sont limités entemps les employés de l'entreprise ne peuvent pas dépasser le délai qui a été fourni. Son autre "casquette" est qu'il est chef de projet (d'asset) ce qui consiste à mettre en place les projets des entreprises et les appelles d'offres d'entreprises.  
+
 **Jour4 :**
 
 **Jour5 :**
