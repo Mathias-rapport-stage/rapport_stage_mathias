@@ -12,9 +12,13 @@ cd master
 echo '---- Switch to master branch ----'
 git checkout master
 
+echo '---- Current directory ----'
+echo "$TRAVIS_BUILD_DIR"
+
+
 echo '---- Copy latest PDF build ----'
-mkdir -p $TRAVIS_BUILD_DIR/pdf
-cp -f $TRAVIS_BUILD_DIR/*.pdf $TRAVIS_BUILD_DIR/pdf
+mkdir -p "$TRAVIS_BUILD_DIR/pdf"
+cp -f "$TRAVIS_BUILD_DIR/*.pdf" "$TRAVIS_BUILD_DIR/pdf"
 
 echo '---- Set git settings ----'
 git config --global user.name $GIT_AUTHOR_NAME

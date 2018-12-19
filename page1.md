@@ -89,6 +89,43 @@ Complétez très soigneusement le tableau suivant : il constitue le bilan de vot
 | Le stage a changé (n'a pas changé) mon projet professionnel. Expliquez. 	|   	|
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Ce que j'ai découvert</th>
+    <th class="tg-0pky"></th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ce qui m'a surpris</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ce que j'ai appris</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">J'ai été déçu par ...</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">J'ai particulièrement apprécié ...</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">J'aimerais (je n'aimerai pas travailler dans cette entreprise car ...)</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Le stage a changé (n'a pas changé) mon projet professionnel. Expliquez.</td>
+    <td class="tg-0pky"></td>
+  </tr>
+</table>
+
 ## Fiche <métier> :
 
 __CONSIGNE :__
