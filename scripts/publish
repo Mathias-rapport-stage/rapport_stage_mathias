@@ -6,15 +6,15 @@ echo '######################################'
 
 echo '---- Cloning repo into /tmp ----'
 cd /tmp
-git clone https://${GH_OAUTH_TOKEN}@github.com/${GH_USER_NAME}/${GH_PROJECT_NAME} gh-pages 2>&1
-cd gh-pages
+git clone https://${GH_OAUTH_TOKEN}@github.com/${GH_USER_NAME}/${GH_PROJECT_NAME} master 2>&1
+cd master
 
-echo '---- Switch to gh-pages branch ----'
-git checkout gh-pages
+echo '---- Switch to master branch ----'
+git checkout master
 
 echo '---- Copy latest PDF build ----'
-mkdir -p dist
-cp $RESULT_PDF_PATH ./dist/${TRAVIS_BRANCH}-thesis.pdf
+mkdir -p pdf
+cp -f *.pdf ./pdf/
 
 echo '---- Set git settings ----'
 git config --global user.name $GIT_AUTHOR_NAME
