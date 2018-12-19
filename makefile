@@ -3,7 +3,8 @@ all: pdf
 pdf: prepare
 	@echo "Creating pdf output ..."
 	@pwd
-	@pandoc --toc --latex-engine=xelatex -f markdown page1.md --output page1.pdf
+	#@pandoc --toc --latex-engine=xelatex -f markdown page1.md --output page1.pdf
+	@md-to-pdf
 	@ls
 
 prepare:
