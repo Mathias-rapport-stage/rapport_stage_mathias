@@ -57,7 +57,11 @@ __Relations avec les clients ou les usagers:__
 
 **Jour1 :**
 
+Le premier jour j'ai eu un entretien avec un ingénieur informaticien qui travaillé à DXC technology depuis 17 ans, son métier consiste à programmer des choses pour les automatiser et créé aussi des vidéos pour former des gens. L'après midi je suis allé dans un collège pour faire ONE HOUR OF CODE c'est un programme qui consiste à initier des 6e à la programmation avec des petits jeux. (le site : code.org) 
+
 **Jour2 :**
+
+Le deuxième jour j'ai eu un entretien avec un technicien informatique son métier consiste à donner des PC lorsqu'il ne fonctionne plus où qu'il on un problème. L'après midi j'ai eu un autre entretien avec un technicien informatique qui est aussi ingénieur réseau il en myITsupport et services ce qui veut dire qu'il est là pour aidé ceux qui des problèmes avec leur PC. 
 
 **Jour3 :**
 
