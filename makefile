@@ -1,4 +1,8 @@
-all: pdf
+all: spellCheck pdf
+
+spellCheck :
+	@ "Checking spell ..."
+	@cat page1.md | aspell --lang=fr --encoding=utf-8 list
 
 pdf: prepare
 	@echo "Creating pdf output ..."
