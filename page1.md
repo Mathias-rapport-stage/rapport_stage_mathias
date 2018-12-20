@@ -58,7 +58,7 @@ __Relations avec les clients ou les usagers:__
 **Jour1 :**
 
 Le premier jour j'ai eu un entretien avec un ingénieur informaticien qui travaillé à DXC technology depuis 17 ans, son métier consiste à programmer des choses pour les automatiser et créé aussi des vidéos pour former des gens. L'après midi je suis allé dans un collège pour faire ONE HOUR OF CODE c'est un programme qui consiste à initier des 6e à la programmation avec des petits jeux. (le site : code.org) 
-ensuite j'ai fait un petit programme pour un robot informatique et non mécanique, quand je lui disais certaine chose comme ping il me répondait pong et d'autre petit mot comme ça.
+ensuite j'ai fait un petit programme pour un robot informatique et non mécanique, quand je lui disais certaine chose comme ping il me répondait pong et je pouvais aussi lui posait des question basique et il me répondait.
 
 **Jour2 :**
 
