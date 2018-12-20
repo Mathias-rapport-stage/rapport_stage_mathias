@@ -52,6 +52,15 @@ __Relations avec les clients ou les usagers:__
 - L'entreprise fait-elle appel à des services extérieurs (sous-traitance, administration, gestion, service, commercial ou publicitaire) ?
 - L'entreprise a-t-elle des projets et quels sont les éventuels problèmes rencontrés ?
 
+
+
+
+
+
+
+
+
+
 ## Journal de bord
 *Décrivez vos activités et observations pendant la séquence.*
 
@@ -66,11 +75,11 @@ Le deuxième jour j'ai eu un entretien avec un technicien informatique son méti
 
 **Jour3 :**
 
-Le troisième jour j'ai eu un rendez-vous avec un consultant d'avant vente son métier consiste à donner des assets(ici asset électronique qui regroupe tout le domaine de l'informatique ex : PC, téléphone, routeur, application) aux entreprises pour quelles puissent travailler ces assets sont limités en temps les employés de l'entreprise ne peuvent pas dépasser le délai qui a été fourni. Son autre "casquette" est qu'il est chef de projet (d'asset) ce qui consiste à mettre en place les projets des entreprises et recevoir les appelles d'offres d'entreprises et les accepter et faire en sorte que l'entreprise ai tout se qu'il lui faut dans le délai et aussi parler du prix. Ensuite j'ai essayé de comprendre un petit programme de trie de nombre en langa go c'était assez compliqué mais au final j'ai quand même réussi à comprendre.
+Le troisième jour j'ai eu un rendez-vous avec un consultant d'avant vente son métier consiste à donner des assets(ici asset électronique qui regroupe tout le domaine de l'informatique ex : PC, téléphone, routeur, application) aux entreprises pour quelles puissent travailler ces assets sont limités en temps les employés de l'entreprise ne peuvent pas dépasser le délai qui a été fourni. Son autre "casquette" est qu'il est chef de projet (d'asset) ce qui consiste à mettre en place les projets des entreprises et recevoir les appelles d'offres d'entreprises et les accepter et faire en sorte que l'entreprise ai tout se qu'il lui faut dans le délai et aussi parler du prix. Ensuite j'ai essayé de comprendre un petit programme de trie de nombre en langage go c'était assez compliqué mais au final j'ai quand même réussi à comprendre.
 
 **Jour4 :**
 
-Le quatrième jour j'ai visité un data center (centre de donnée) ce data center est très puissant il consomme autant en électricité qu'une ville de 4000 habitants ce data center est séparé en 2 grandes salles : Saumur et Amboise. L'arrivé électrique pour alimenter chacune des 2 salles et de 20000 volt, avec autant d'électricité les serveur peuvent vite surchauffés. il utilise donc un système de refroidissement appelé le dry cooler qui laisse refroidir des cuves d'eau et qui ne sont utilisé quand hiver en dessous de 8°C , elles servent comme les autres cuves utilisées toute l'année à refroidir la climatisation. Dans la salle Amboise l'eau passe par des gros tuyeaux sous le faux plancher pour aller dans le couloir de climatisation et refroidir les serveurs en passant par le faux plancher. A Saumur il n'y a pas de faux plancher l'eau fait le même chemin que la salle Amboise mais le couloir de climatisation soufle par dérrière les serveur. Comme ces salles sont bien équipés elles bénéficies du même équipement toutes les 2, elles sont très bien équipés surtout en therme de sécurité incendie elles disposent toutes les 2 d'un tuyaux avec des troues pour filtrer l'air tout le temps et détecté la moindre fumée si il y aurait de la fumée un signal s'envairait et une machine verrifirait et si il y a un les sprincler se déclanche pour envoyer de l'eau partout et éteindre le feu. Il y a aussi un renouvelement d'air constant. Cet endroit est très sécurisé il y a une centaine de caméra et pour y acceder il faut un badge et que la personne pose sa main sur une machine pour reconaitre la boimétrie (la forme) de sa main , cet endroit endroit est très sécurisé car il ya des millions de Terra de données et des machines qui valent des millions d'euro.
+Le quatrième jour j'ai visité un data center (centre de donnée) ce data center est très puissant il consomme autant en électricité qu'une ville de 4000 habitants ce data center est séparé en 2 grandes salles : Saumur et Amboise. L'arrivé électrique pour alimenter chacune des 2 salles et de 20000 volt, avec autant d'électricité les serveur peuvent vite surchauffés. il utilise donc un système de refroidissement appelé le dry cooler qui laisse refroidir des cuves d'eau et qui ne sont utilisé quand hiver en dessous de 8°C , elles servent comme les autres cuves utilisées toute l'année à refroidir la climatisation. Dans la salle Amboise l'eau passe par des gros tuyeaux sous le faux plancher pour aller dans le couloir de climatisation et refroidir les serveurs en passant par le faux plancher. A Saumur il n'y a pas de faux plancher l'eau fait le même chemin que la salle Amboise mais le couloir de climatisation soufle par dérrière les serveur. Comme ces salles sont bien équipés elles bénéficies du même équipement toutes les 2, elles sont très bien équipés surtout en therme de sécurité incendie elles disposent toutes les 2 d'un tuyaux avec des troues pour filtrer l'air tout le temps et détecté la moindre fumée si il y aurait de la fumée un signal s'envairait et une machine verrifirait et si il y a un feu les sprincler se déclanche pour envoyer de l'eau partout et éteindre le feu. Il y a aussi un renouvelement d'air constant. Cet endroit est très sécurisé il y a une centaine de caméra et pour y acceder il faut un badge et que la personne pose sa main sur une machine pour reconaitre la biométrie (la forme) de sa main , cet endroit endroit est très sécurisé car il ya des milliers de Terra de données et des machines qui valent des millions d'euro.
 
 **Jour5 :**
 
@@ -84,14 +93,6 @@ Le quatrième jour j'ai visité un data center (centre de donnée) ce data cente
 
 Complétez très soigneusement le tableau suivant : il constitue le bilan de votre stage.
 
-| Ce que j'ai découvert                                                   	|   	|
-|-------------------------------------------------------------------------	|---	|
-| Ce qui m'a surpris                                                      	|   	|
-| Ce que j'ai appris                                                      	|   	|
-| J'ai été déçu par ...                                                   	|   	|
-| J'ai particulièrement apprécié ...                                      	|   	|
-| J'aimerais (je n'aimerai pas travailler dans cette entreprise car ...)  	|   	|
-| Le stage a changé (n'a pas changé) mon projet professionnel. Expliquez. 	|   	|
 
 
 <style type="text/css">
@@ -135,7 +136,7 @@ Complétez très soigneusement le tableau suivant : il constitue le bilan de vot
 
 __CONSIGNE :__
 
-Parmi les métiers que vous avez observés choissez-en un et réalisez une fiche métier au format A4 incluse dans le cachier de stage.
+Parmi les métiers que vous avez observés choissez-en un et réalisez une fiche métier au format A4 incluse dans le cahier de stage.
 
 Cette fiche devra indiquer :
 - le nom du métier:
@@ -161,3 +162,83 @@ Le professeur chargé du suivi de l'élève : ......................
 
 Evaluation du compte rendu de stage :
 
+
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Je présente proprement le compte-rendu : lisiblement, pas de rature, pas de correcteur ...</th>
+    <th class="tg-0pky">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/2&nbsp;&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">J'ai illustré le compte-rendu : photographies, documents ...</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/2</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">J'ai complété le questionnaire&nbsp;&nbsp;toutes les rubriques sont&nbsp;&nbsp;renseignées.</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/3</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">J'ai rédigé en français correct, en tenant compte de la rédaction, de l'orthographe, de la <br>syntaxe.... toutes les réponses.</td>
+    <td class="tg-0pky"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">J'ai fait preuve d'une réflexion personnelle et j'ai détaillé mes réponses</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/4</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/15 </td>
+  </tr>
+</table>
+
+
+
+
+
+### Evaluation de la fiche métier 
+
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">J'ai réalisé ma fiche avec soin, rigueur et créativité.</th>
+    <th class="tg-0pky">      /1      </th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">J'ai choisi avec discernement et inséré au moins deux illustration.</td>
+    <td class="tg-0pky">      /1</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">J'ai présenté clairement le métier observé.</td>
+    <td class="tg-0pky">      /1</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">J'ai suivi le plan demandé et complété toutes les rubriques.</td>
+    <td class="tg-0pky">      /1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">J'ai recherché et indiqué précisément la formation à suivre.</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total</td>
+    <td class="tg-0lax">     /5&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</table>
