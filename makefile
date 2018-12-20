@@ -1,7 +1,7 @@
 all: spellCheck pdf
 
 spellCheck :
-	@ "Checking spell ..."
+	@echo "Checking spell ..."
 	@cat page1.md | aspell --lang=fr --encoding=utf-8 list
 
 pdf: prepare
