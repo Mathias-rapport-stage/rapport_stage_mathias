@@ -88,7 +88,21 @@ __Relations avec les clients ou les usagers:__
 - A qui sont vendus la production, la marchandise, le service ?
 - L'entreprise fait-elle appel à des services extérieurs (sous-traitance, administration, gestion, service, commercial ou publicitaire) ?
 - L'entreprise a-t-elle des projets et quels sont les éventuels problèmes rencontrés ?
-                                                                                                                                                          
+<br>                                                                      <br>
+   <br>                                                                    <br>                                                                      <br>
+   <br> 
+   <br>                                                                      <br>
+   <br> 
+   <br>                                                                      <br>
+   <br> <br>                                                                      <br>
+   <br> <br>                                                                      <br>
+   <br> <br>                                                                      <br>
+   <br> <br>                                                                      <br>
+   <br> <br>                                                                      <br>
+   <br>             
+   <br>                                                                      <br>
+ <br>                                                                      <br>
+   <br> 
 ## Journal de bord
 *Décrivez vos activités et observations pendant la séquence.*
 
@@ -121,7 +135,9 @@ Ensuite j'ai eu un dernier entretien avec une personne qui travail dans les ress
 **Jour5 :**
 
 Le dernier jour j'ai eu un rendez-vous avec un DevOps coach , le DevOps est une seul équipe de personne qui développe , qui test et qui met en production un projet et le maintien en état de marche ce système et plus rapide que l'ancien car avant chaque étape était fait une équipe différente ce qui pouvait prendre 6 mois à 1 ans. Le DevOps coach est la pour vérifier que l'équipe de DevOps coach avance bien et dans les temps. L'autre travail de cette personne est Site Reliability Engineer(ou SRE) se qui consiste à s'occuper d'un outil en particulier, de le maintenir en place avec du code et que toute l'entreprise puisse l'utilisé
-
+<br>                                                                      <br>
+                                                               
+  
 ## Impressions personnelles
 *Cocher les cases correspondantes*
 
@@ -178,7 +194,8 @@ Cette fiche devra indiquer :
 - la formation (nom du diplôme, niveau d'études, lieu de formation)
 
 *Vous soignerez la présentation de cette ficher et l'illustrerez par au moins deux photos significatives du métier choisi.*
-
+<br>                                                                      <br>
+   <br> 
 # FICHE EVALUATION
 
 ### Evaluation du compte-rendude stage par le profsseur chargé du suivie de l'élève
@@ -195,40 +212,37 @@ Le professeur chargé du suivi de l'élève : ......................
 Evaluation du compte rendu de stage :
 
 
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky1{border-color:inherit;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0pky">Je présente proprement le compte-rendu : lisiblement, pas de rature, pas de correcteur ...</th>
-    <th class="tg-0pky">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/2&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <td class="tg-0pky">Je présente proprement le compte-rendu :<br> lisiblement, pas de rature, pas de correcteur ...<br></td>
+    <td class="tg-0pky1">/2 </td>
   </tr>
   <tr>
     <td class="tg-0pky">J'ai illustré le compte-rendu : photographies, documents ...</td>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/2</td>
+    <td class="tg-0pky1">/2</td>
   </tr>
   <tr>
-    <td class="tg-0pky">J'ai complété le questionnaire&nbsp;&nbsp;toutes les rubriques sont&nbsp;&nbsp;renseignées.</td>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/3</td>
+    <td class="tg-0pky">J'ai complété le questionnaire  toutes les rubriques sont  renseignées.</td>
+    <td class="tg-0pky1">/3</td>
   </tr>
   <tr>
-    <td class="tg-0pky">J'ai rédigé en français correct, en tenant compte de la rédaction, de l'orthographe, de la <br>syntaxe.... toutes les réponses.</td>
-    <td class="tg-0pky"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">J'ai rédigé en français correct, en tenant compte de la rédaction,<br> de l'orthographe, de la syntaxe.... toutes les réponses.</td>
+    <td class="tg-0pky1">/4</td>
   </tr>
   <tr>
-    <td class="tg-0lax">J'ai fait preuve d'une réflexion personnelle et j'ai détaillé mes réponses</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/4</td>
+    <td class="tg-0pky">J'ai fait preuve d'une réflexion personnelle et j'ai détaillé mes réponses</td>
+    <td class="tg-0pky1">/4</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/15 </td>
+    <td class="tg-0pky">                                                                                                                                    Total</td>
+    <td class="tg-0pky1">/15</td>
   </tr>
 </table>
 
