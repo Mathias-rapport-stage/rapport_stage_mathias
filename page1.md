@@ -37,7 +37,7 @@ __Sa clientèle :__
 
 - D'où vient-elle ?
 
-La clientèle vien de partout dans le monde.
+La clientèle vient de partout dans le monde.
 
 - Quelle est-elle ?
   
@@ -91,7 +91,7 @@ Les employés traivaillent ensemble grâce à un outil qui s'appelle GitHub, cet
 
 __Relations avec les fournisseurs :__
 
-- Où l'entreprise se procure-t-elle les matières premières, son matériel, ses pièces de rechanges, ses marchandises ?
+- Où l'entreprise se procure-t-elle les matières premières, son matériel, ses pièces de rechange, ses marchandises ?
 
 __Relations avec les clients ou les usagers:__
 
